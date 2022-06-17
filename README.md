@@ -7,3 +7,6 @@ Learning a little each day adds up. Research shows that students who make learni
 ## About this course
 
 Learn the key concepts and basic workflow for Git and GitHub with this easy to follow, top rated, bootcamp-style course!
+
+## Website contents
+hentet fra https://www.w3schools.com/w3css/w3css_templates.asp
